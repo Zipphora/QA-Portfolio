@@ -20,6 +20,9 @@ With a background bridging **Software Engineering (Java/AI track)** and **Busine
 *   **Artifact Link:** [BeReal UX Teardown Analysis](./BeReal_UX_Teardown_Analysis.md)
 *   **Overview:** A comprehensive quality analysis evaluating the synchronous load constraints of BeReal's core features, global timestamp edge cases, and the balance between app business logic and user retention (MAU) friction.
 
+### 🗺️ 2. User Journey Mapping: BeReal Stages
+* **Artifact Link:** [BeReal User Journey Stages](./BeReal_User_Journey_Stages.md)
+* **Overview:** A structural mapping of the 5 key phases of the BeReal app lifecycle used to pinpoint architectural load issues, visual friction, and negative test boundaries.
 
 ---
 
