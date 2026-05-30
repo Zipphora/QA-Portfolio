@@ -24,6 +24,10 @@ With a background bridging **Software Engineering (Java/AI track)** and **Busine
 * **Artifact Link:** [BeReal User Journey Stages](./BeReal_User_Journey_Stages.md)
 * **Overview:** A structural mapping of the 5 key phases of the BeReal app lifecycle used to pinpoint architectural load issues, visual friction, and negative test boundaries.
 
+### 📊 3. User Journey Map: Behavioral Matrix
+* **Artifact Link:** [BeReal User Journey Matrix](./BeReal_User_Journey_Matrix.md)
+* **Overview:** A complete breakdown mapping user actions, thoughts, and emotional triggers across the application lifecycle to identify usability defects and visual friction.
+
 ---
 
 ## 🎯 Career Objective
