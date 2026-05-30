@@ -1,7 +1,7 @@
 # Product Quality Analysis: BeReal Mobile App Teardown
 **Date:** May 30, 2026  
 **Author:** Zipphora Platania <br> 
-**Role:** Product Quality & UX Extern  
+**Role:** Product Management Extern (Product Quality & UX Focus)
 
 ## 1. Product & Quality Overview
 This teardown evaluates the balance between BeReal's core business logic (forcing daily authenticity via a synchronous 2-minute window) and its actual user experience constraints.
