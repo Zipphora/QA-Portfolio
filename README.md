@@ -28,6 +28,10 @@ With a background bridging **Software Engineering (Java/AI track)** and **Busine
 * **Artifact Link:** [BeReal User Journey Matrix](./BeReal_User_Journey_Matrix.md)
 * **Overview:** A complete breakdown mapping user actions, thoughts, and emotional triggers across the application lifecycle to identify usability defects and visual friction.
 
+### 📈 4. BeReal Company Teardown & Market Analysis
+* **Artifact Link:** [BeReal Company Teardown](./BeReal_Company_Teardown.md)
+* **Overview:** A strategic breakdown of BeReal’s history, monetization transition under Voodoo, competitor space, and growth features to align QA priorities with corporate metrics.
+
 ---
 
 ## 🎯 Career Objective
