@@ -30,7 +30,7 @@ With a background bridging **Software Engineering (Java/AI track)** and **Busine
 
 ### 📈 4. BeReal Company Teardown & Market Analysis
 * **Artifact Link:** [BeReal Company Teardown](./BeReal_Company_Teardown.md)
-* **Overview:** A strategic breakdown of BeReal’s history, monetization transition under Voodoo, competitor space, and growth features to align QA priorities with corporate metrics.
+* **Overview:** A strategic breakdown of BeReal’s history, monetization transition under Voodoo, competitor space, and growth features. Includes a data constraint retrospective analyzing data accessibility vectors during research.
 
 ---
 
