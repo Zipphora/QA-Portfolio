@@ -32,6 +32,10 @@ With a background bridging **Software Engineering (Java/AI track)** and **Busine
 * **Artifact Link:** [BeReal Company Teardown](./BeReal_Company_Teardown.md)
 * **Overview:** A strategic breakdown of BeReal’s history, monetization transition under Voodoo, competitor space, and growth features. Includes a data constraint retrospective analyzing data accessibility vectors during research.
 
+### 🎯 5. PM Problem Statement & Opportunity Note
+* **Artifact Link:** [BeReal Problem Statement & Opportunity](./BeReal_Problem_Statement.md)
+* **Overview:** A technical breakdown defining critical infrastructure constraints during synchronous data usage, complete with target manual QA testing vectors.
+
 ---
 
 ## 🎯 Career Objective
