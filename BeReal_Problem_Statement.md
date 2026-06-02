@@ -1,6 +1,6 @@
 # Product Quality Engineering: Problem Statement & Opportunity Note
 **Date:** June 2, 2026  
-**Author:** Zipphora Platania
+**Author:** Zipphora Platania <br>
 **Project:** BeReal Performance & UX Analysis  
 
 ## 🎯 Strategic Focus
