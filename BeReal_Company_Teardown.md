@@ -22,3 +22,11 @@ The biggest competitors are obviously Instagram (which literally copied the feat
 
 ### 5. Growth Strategy
 After downloads started slowing down a couple of years ago, the app has focused heavily on keeping its current 40 million monthly users active while expanding into new markets like Japan, India, and Brazil. To keep people on the app longer than just a few minutes a day, they've added new features like letting you post up to 5 "Bonus BeReals" if you post your first one on time, and adding threads where you can interact directly with brand accounts.
+
+---
+
+## 🔍 Appendix: Research Methodology & Data Constraints
+When conducting corporate teardowns in a product engineering environment, analyzing data accessibility is crucial for establishing baseline requirements. 
+
+* **Highest Accessibility Vector (Founding Story & UVP):** Historical data surrounding BeReal's 2019 launch and original product thesis was highly accessible due to extensive coverage during the platform's initial viral growth cycles. Core brand documentation regarding its "anti-curation" market positioning is well-established.
+* **Lowest Accessibility Vector (Monetization & Financials):** Locating verified revenue metrics post-2024 required deep-diving into post-acquisition press releases from Voodoo. Because the platform shifted from a zero-revenue investor-backed model to an ad-driven ecosystem relatively recently, real-time fiscal performance metrics present higher data fragmentation.
