@@ -1,6 +1,6 @@
 # Company Teardown & Market Analysis: BeReal
 **Date:** June 2, 2026  
-**Author:** Zipphora  
+**Author:** Zipphora Platania
 **Role:** Product Management Extern (Product Quality & UX Focus)  
 
 ## Executive Summary
