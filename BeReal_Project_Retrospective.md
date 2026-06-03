@@ -1,6 +1,6 @@
 # Externship Project Retrospective: BeReal Product Quality Analysis
 **Date:** June 2, 2026  
-**Author:** Zipphora Platania
+**Author:** Zipphora Platania <br>
 **Role:** Product Management Extern (Product Quality & UX Focus)
 
 ## 📋 Overview
