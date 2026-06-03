@@ -29,3 +29,13 @@ To ensure this opportunity is successfully validated, manual testing protocols s
 1. **Network Throttling Simulation:** Testing the media capture upload flow under degraded 3G/Low Data networks during notification drops.
 2. **Interrupt Testing:** Simulating incoming calls, app backgrounding, or device locking during an active image upload transaction.
 3. **Boundary Value Analysis:** Verifying system behavior at exactly $0:00$ remaining on the countdown clock to check for race conditions.
+
+---
+
+## 👥 Cross-Functional Retrospective: PM vs. Researcher Mindset
+Navigating the product lifecycle requires shifting between distinct engineering and product philosophies:
+
+| Perspective | Core Focus | Methodology | QA Alignment |
+| :--- | :--- | :--- | :--- |
+| **UX Researcher** | Problem Exploration | Rooted in empathetic data collection, behavioral mapping, and isolating user friction vectors without premature solution scoping. | Provides the empirical behavioral data needed to build realistic user personas and negative testing tracks. |
+| **Product Manager** | Solution Execution | Rooted in optimization, business feasibility, and turning raw research insights into clear, actionable feature requirements and opportunity frameworks. | Defines the core business acceptance criteria (AC) that manual test cases must ultimately validate. |
