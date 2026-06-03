@@ -36,6 +36,10 @@ With a background bridging **Software Engineering (Java/AI track)** and **Busine
 * **Artifact Link:** [BeReal Problem Statement & Opportunity](./BeReal_Problem_Statement.md)
 * **Overview:** A technical breakdown defining critical infrastructure constraints during synchronous data usage, complete with target manual QA testing vectors.
 
+### 🏁 6. Project Retrospective & Summary
+* **Artifact Link:** [BeReal Project Retrospective](./BeReal_Project_Retrospective.md)
+* **Overview:** A formal project conclusion tracking skill acquisition, documentation wins, and future manual testing optimization vectors.
+
 ---
 
 ## 🎯 Career Objective
